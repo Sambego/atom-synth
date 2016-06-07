@@ -2,12 +2,18 @@
   "name": "atom-synth",
   "main": "./lib/atom-synth",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Create your personal soundtrack as you type",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-synth:toggle"
   },
-  "repository": "https://github.com/atom/atom-synth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambego/atom-synth"
+  },
+  "bugs": {
+    "url": "https://github.com/sambego/atom-synth/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
