@@ -5,4 +5,4 @@ Now you can, with this package! Every keystroke will generate a synth tone, so g
 
 (De)Activate it by pressing `ctrl` + `alt` + `o`, or from the packages menu.
 
-You can see a demo on youtube [here](https://www.youtube.com/watch?v=rG40pHQgNJs).
+You can see a demo on youtube [here](https://www.youtube.com/watch?v=sPUw_wJyOTA).
