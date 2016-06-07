@@ -1,5 +1,6 @@
 # atom-synth package
 
-A short description of your package.
+Ever wanted to have your personal soundtrack while you type your code?
+Now you can, with this package! Every keystroke will generate a synth tone, so get creative!!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+(De)Activate it by pressing `ctrl` + `alt` + `o`, or from the packages menu.
